@@ -2,7 +2,9 @@
 
 # [STATUS: PROTECTED] 🔒
 
-![Header](https://capsule-render.vercel.app/api?type=terminal&color=000000&height=200&section=header&text=Erick%20|%20Cyber%20Security%20&fontSize=40&fontColor=00FF00)
+<p align="center">
+  <img src="header.png" alt="Header IA" width="100%">
+</p>
 
 ---
 
