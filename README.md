@@ -10,7 +10,7 @@
 Estudante de **Cibersegurança** | Desenvolvedor **Java** | Entusiasta de Pentest.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-rodolfo-zendron-847b43398/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zendron.erick))
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zendron.erick)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zendron.erick@gmail.com)
 
 ---
@@ -26,9 +26,9 @@ Estudante de **Cibersegurança** | Desenvolvedor **Java** | Entusiasta de Pentes
 
 ### 📊 Threat Intelligence (My Stats):
 
-<img src="https://github-readme-stats.vercel.app/api?username=zendron-erick&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendron-erick&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 -->
